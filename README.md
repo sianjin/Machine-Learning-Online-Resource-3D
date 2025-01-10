@@ -1,1 +1,1 @@
-# Machine-Learning-Online-Resource-3D
+# Machine Learning Online Resource: 3D
