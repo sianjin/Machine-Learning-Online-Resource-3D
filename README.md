@@ -1,1 +1,1 @@
-# Machine-Learning-Online-Resource-Advanced
+# Machine-Learning-Online-Resource-3D
